@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">1d0213a8837122102024e5d0deaad390</canvas>
+        <component display_value="List - Simple">2b1c080881e05dc63b917044290b233f</component>
+        <component_props>{"table":"x_1335130_liang_request","fixedQuery":"active=true","listTitle":"All Active Tasks","columns":"","query":"active=true","groupByField":"","hideViewAll":false,"hideHighlightedValues":false,"highlightedValueConfigId":"","hideHighlightContent":false,"highlightContent":{"patterns":[],"color":""},"hideLinks":false,"nrlLandmark":true,"wordWrap":false,"overrideWordWrapUserPref":false,"maxCharLimit":4000,"hideEmptyStateImage":false,"hidePersonalization":false,"hideDotwalk":false,"hideColumnReorder":false,"hideRowSelector":false,"hideColumnGrouping":false,"hideColumnResizing":false,"hideColumnFiltering":false,"hideColumnSorting":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideLastRefreshedText":false,"hideRefreshButton":false,"hideInlineEditing":false,"refreshRequested":""}</component_props>
+        <h>20</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-26 01:14:25</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>110213a8837122102024e5d0deaad39a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="LIANG" source="x_1335130_liang">8af15f68837122102024e5d0deaad3a2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LIANG">8af15f68837122102024e5d0deaad3a2</sys_scope>
+        <sys_update_name>par_dashboard_widget_110213a8837122102024e5d0deaad39a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-26 01:14:25</sys_updated_on>
+        <visualization/>
+        <w>48</w>
+        <widget_props/>
+        <x>0</x>
+        <y>15</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="LIANG">8af15f68837122102024e5d0deaad3a2</application>
+        <file_path/>
+        <instance_id>8e9ab96d1bf6f954699443f4bd4bcb89</instance_id>
+        <instance_name>dev227848</instance_name>
+        <name>par_dashboard_widget_110213a8837122102024e5d0deaad39a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">1d0213a8837122102024e5d0deaad390</canvas><component display_value="List - Simple">2b1c080881e05dc63b917044290b233f</component><component_props>{"table":"x_1335130_liang_request","fixedQuery":"active=true","listTitle":"All Active Tasks","columns":"","query":"active=true","groupByField":"","hideViewAll":false,"hideHighlightedValues":false,"highlightedValueConfigId":"","hideHighlightContent":false,"highlightContent":{"patterns":[],"color":""},"hideLinks":false,"nrlLandmark":true,"wordWrap":false,"overrideWordWrapUserPref":false,"maxCharLimit":4000,"hideEmptyStateImage":false,"hidePersonalization":false,"hideDotwalk":false,"hideColumnReorder":false,"hideRowSelector":false,"hideColumnGrouping":false,"hideColumnResizing":false,"hideColumnFiltering":false,"hideColumnSorting":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideLastRefreshedText":false,"hideRefreshButton":false,"hideInlineEditing":false,"refreshRequested":""}</component_props><h>20</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-26 01:14:25</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>110213a8837122102024e5d0deaad39a</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="LIANG" source="x_1335130_liang">8af15f68837122102024e5d0deaad3a2</sys_package><sys_policy/><sys_scope display_value="LIANG">8af15f68837122102024e5d0deaad3a2</sys_scope><sys_update_name>par_dashboard_widget_110213a8837122102024e5d0deaad39a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-26 01:14:25</sys_updated_on><visualization/><w>48</w><widget_props/><x>0</x><y>15</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>-1099966303</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>8af15f68837122102024e5d0deaad3a4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-26 01:14:25</sys_created_on>
+        <sys_id>510213a8837122102024e5d0deaad3a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1970a27ba5e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-26 01:14:25</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>9d0213a8b0712210750aad67d396d29a</update_guid>
+        <update_guid_history>9d0213a8b0712210750aad67d396d29a:-1099966303</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">510213a8837122102024e5d0deaad3b2</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-26 01:14:25</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>8da612bbf7c442ae9f6e007cb60120c4</sys_id>
+        <sys_metadata>110213a8837122102024e5d0deaad39a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="LIANG" source="x_1335130_liang">8af15f68837122102024e5d0deaad3a2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="LIANG">8af15f68837122102024e5d0deaad3a2</sys_scope>
+        <sys_scope_delete display_value="">021c15eb622147fa8005d91a109ed144</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_110213a8837122102024e5d0deaad39a</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_110213a8837122102024e5d0deaad39a">510213a8837122102024e5d0deaad3a8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-26 01:14:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
